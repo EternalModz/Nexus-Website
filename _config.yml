@@ -1,7 +1,10 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
+title: Nexus Website
+theme: jekyll-theme-slate
 
 plugins:
   - jekyll-remote-theme
+
+remote_theme: jekyll-ja/jekyll-theme-slate
 
 #title: Nexus Website
 #theme: minima
