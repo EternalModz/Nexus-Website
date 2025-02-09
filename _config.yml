@@ -1,9 +1,7 @@
-theme: jekyll-theme-minimal  # A clean and simple theme
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 plugins:
   - jekyll-remote-theme
-
-remote_theme: pages-themes/chirpy
 
 #title: Nexus Website
 #theme: minima
