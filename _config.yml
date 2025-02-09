@@ -1,18 +1,6 @@
-title: The Crimson Den
-
-# Use Chirpy theme from GitHub Pages
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-minimal  # A clean and simple theme
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-archives
-  - jekyll-paginate
 
-paginate: 10
-paginate_path: "/page:num/"
-
-# Enable Dark Mode
-theme_mode: dark
+remote_theme: pages-themes/minimal
