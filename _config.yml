@@ -1,10 +1,10 @@
 title: Nexus Website
-theme: jekyll-theme-slate
+theme: jekyll-clean-dark
 
 plugins:
   - jekyll-remote-theme
 
-remote_theme: jekyll-ja/jekyll-theme-slate
+remote_theme: scotte/jekyll-clean-dark
 
 #title: Nexus Website
 #theme: minima
