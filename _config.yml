@@ -1,10 +1,13 @@
 title: Nexus Website
-theme: jekyll-clean-dark
+description: >
+  Welcome to my Nexus Website powered by Jekyll!
+  
+# Use the jekyll-dark-ored remote theme
+remote_theme: son-link/jekyll-dark-ored
 
+# Plugins required for remote themes
 plugins:
   - jekyll-remote-theme
-
-remote_theme: scotte/jekyll-clean-dark
 
 #title: Nexus Website
 #theme: minima
