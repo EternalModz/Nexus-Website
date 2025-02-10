@@ -9,6 +9,8 @@ remote_theme: son-link/jekyll-dark-ored
 plugins:
   - jekyll-remote-theme
 
+  home: index.md
+
 #title: Nexus Website
 #theme: minima
 
